@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log in</title>
+    <style>
+        body{
+            background-color: #969696;
+        }
+        .main{
+            min-height: 97.5vh;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            width: 690px;
+            margin: 0 auto;
+            background-color: #ededed;  
+            box-shadow: 0 20px 35px rgb(0, 0, 1,0.9);
+            background: linear-gradient(to bottom, #e2e2e2a0, #edededc2);
+            
+            
+            
+            
+
+        }
+        .firstLine{
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            padding: 5px;
+            
+
+
+        }
+        .firstLine a:first-child{
+            color: #635657;
+            text-decoration: none;
+            font-size: 13px;
+
+        }
+        .form{
+            text-align: center;
+        }
+        #firstName, #lastName, #email,#password{
+            border: 2px solid black;
+            border-radius: 13px;
+            height: 45px;
+            width: 500px;
+            margin: 20px;
+            background-color: #e6dddf;
+            margin-left: 90px;
+        }
+        .checkbox {
+            display: flex;
+            justify-content: flex-start; 
+            align-items: center;
+            margin-left: 90px; 
+        }
+        button{
+            height: 45px;
+            width: 500px;
+            border: 2px solid black;
+            border-radius: 13px;
+            margin-left: 90px;
+            margin-top: 30px;
+            text-align: center;
+            background-color: #818bd1;
+            color: white;
+            font-weight: bold;
+        }
+        
+    </style>
+</head>
+<body>
+
+    <div class="main">
+        <div class="firstLine">
+            <a id="already" href="" >Don't have a account?</a>
+            <a href="signup.html" style="text-decoration: none; color: #2b59a2; padding-left: 3px; font-size: 15px;" >Sign up</a>
+        </div>
+        <div class="form">
+            <h2>let's begin</h2>
+            
+
+            <form id="login" action="login.php" method="post" style="display: grid;">
+                <input type="email" name="email" placeholder="Email" id="email">
+                <input type="password" name="password" placeholder="Password" id="password">
+                
+                <button >Log In</button>
+                <button>Login with Google</button>
+            </form>
+
+            
+
+        </div>
+
+    </div>
+
+
+    
+    
+</body>
+</html>

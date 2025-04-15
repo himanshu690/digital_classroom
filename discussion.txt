@@ -1,0 +1,16 @@
+null
+null
+null
+null
+null
+null
+{"id":"67fa967aeba9a","time":"2025-04-14 07:07:06","name":"himanshu","question":"maths doubt"}
+{"id":"67fa97f6ef522","time":"2025-04-14 07:07:12","name":"hi","question":"clear","type":"post"}
+{"id":"67fa97fc64bcc","time":"2025-04-14 07:07:20","name":"hi","question":"wow","type":"post"}
+{"id":"67fa982f6fdc5","time":"2025-04-14 07:07:43","name":"hhh","question":"integration"}
+{"id":"67fc1c493b69a","time":"2025-04-13 22:24:50","name":"sumit","question":"maths doubt"}
+{"id":"67fc2026a98ed","time":"2025-04-14 07:07:51","name":"sumit","question":"probability"}
+{"id":"67fc20c37408e","time":"2025-04-14 08:29:05","name":"gffx","question":"p and c"}
+{"id":"67fcc5b088054","time":"2025-04-14 10:22:08","name":"frsfsrgr","question":"sfg"}
+{"id":"67fcc92440db4","time":"2025-04-14 10:36:52","name":"nbnbk","question":"mnmnmn"}
+{"id":"67fddd09809b6","time":"2025-04-15 06:14:01","name":",,k","question":",,"}
